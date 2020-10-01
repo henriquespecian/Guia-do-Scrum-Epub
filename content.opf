@@ -3,7 +3,8 @@
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>Guia do Scrum</dc:title>
     <dc:creator>Eduardo Rodrigues Sucena; Fábio Cruz</dc:creator>
-    <dc:contributor>Eduardo Rodrigues Sucena; Fábio Cruz</dc:creator>
+    <dc:contributor>Eduardo Rodrigues Sucena; Fábio Cruz</dc:contributor>
+    <dc:version>2017</dc:version>
     <dc:date>2017</dc:date>
     <dc:subject>Scrum Guide 2017 - Brazilian Portuguese Version</dc:subject>
     <dc:language>Pt-br</dc:language>
