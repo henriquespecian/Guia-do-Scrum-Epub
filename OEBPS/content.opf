@@ -1,0 +1,64 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Guia do Scrum</dc:title>
+    <dc:creator>Eduardo Rodrigues Sucena; Fábio Cruz</dc:creator>
+    <dc:contributor>Eduardo Rodrigues Sucena; Fábio Cruz</dc:contributor>
+    <dc:date>2017</dc:date>
+    <dc:subject>Scrum Guide 2017 - Brazilian Portuguese Version</dc:subject>
+    <dc:language>Pt-br</dc:language>
+    <dc:rights>©2017 Ken Schwaber e Jeff Sutherland. Oferecido por licensa sobre a Attribution Share-Alike da Creative Commons</dc:rights>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a19a8836-480b-4787-8f75-6a953e800cb7</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>    
+    <item href="Text/pagina_001.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_002.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_003.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_004.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_005.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_006.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_007.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_008.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_009.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_010.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_011.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_012.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_013.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_014.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_015.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_016.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_017.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_018.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_019.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/pagina_020.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>    
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
