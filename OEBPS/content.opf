@@ -34,6 +34,7 @@
     <item href="Text/pagina_020.html" id="id20" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>    
     <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>

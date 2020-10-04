@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="por">
+  <head>
+    <meta content="1ffe29a8-5ac7-4c39-85b2-37c23b2cb144" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.30.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Guia do Scrum</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>O propósito do Guia do Scrum</text>
+      </navLabel>
+      <content src="Text/pagina_003.html#p1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Definição do Scrum</text>
+      </navLabel>
+      <content src="Text/pagina_003.html#p2"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Usos do Scrum</text>
+      </navLabel>
+      <content src="Text/pagina_004.html#p1"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Teoria do Scrum</text>
+      </navLabel>
+      <content src="Text/pagina_004.html#p2"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Valores do Scrum</text>
+      </navLabel>
+      <content src="Text/pagina_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>O Time Scrum</text>
+      </navLabel>
+      <content src="Text/pagina_006.html#p1"/>
+
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>O Product Owner</text>
+        </navLabel>
+        <content src="Text/pagina_006.html#p2"/>
+      </navPoint>  
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>O Time de Desenvolvimento</text>
+        </navLabel>
+        <content src="Text/pagina_006.html#p3"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>O Scrum Master</text>
+        </navLabel>
+        <content src="Text/pagina_007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Eventos Scrum</text>
+      </navLabel>
+      <content src="Text/pagina_009.html#p1"/>
+    </navPoint>
+
+
+
+    <!--<navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>CAPÍTULO 7 Felicidade</text>
+      </navLabel>
+      <content src="Text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>CAPÍTULO 8 Prioridades</text>
+      </navLabel>
+      <content src="Text/part0010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>CAPÍTULO 9 Mude o mundo</text>
+      </navLabel>
+      <content src="Text/part0011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Apêndice</text>
+      </navLabel>
+      <content src="Text/part0012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Agradecimentos</text>
+      </navLabel>
+      <content src="Text/part0013.html"/>
+    </navPoint>-->
+  </navMap>
+</ncx>
