@@ -45,7 +45,6 @@
         <text>O Time Scrum</text>
       </navLabel>
       <content src="Text/pagina_006.html#p1"/>
-
       <navPoint class="chapter" id="num_7" playOrder="7">
         <navLabel>
           <text>O Product Owner</text>
@@ -62,7 +61,7 @@
         <navLabel>
           <text>O Scrum Master</text>
         </navLabel>
-        <content src="Text/pagina_007.html"/>
+        <content src="Text/pagina_007.html#p1"/>
       </navPoint>
     </navPoint>
     <navPoint class="chapter" id="num_8" playOrder="8">
@@ -70,39 +69,108 @@
         <text>Eventos Scrum</text>
       </navLabel>
       <content src="Text/pagina_009.html#p1"/>
-    </navPoint>
-
-
-
-    <!--<navPoint class="chapter" id="num_9" playOrder="9">
-      <navLabel>
-        <text>CAPÍTULO 7 Felicidade</text>
-      </navLabel>
-      <content src="Text/part0009.html"/>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>A Sprint</text>
+        </navLabel>
+        <content src="Text/pagina_009.html#p2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>Planejamento da Sprint</text>
+        </navLabel>
+        <content src="Text/pagina_010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>Reunião Diária</text>
+        </navLabel>
+        <content src="Text/pagina_012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>Revisão da Sprint</text>
+        </navLabel>
+        <content src="Text/pagina_013.html#p1"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>Retrospectiva da Sprint</text>
+        </navLabel>
+        <content src="Text/pagina_013.html#p2"/>
+      </navPoint>
     </navPoint>
     <navPoint class="chapter" id="num_10" playOrder="10">
       <navLabel>
-        <text>CAPÍTULO 8 Prioridades</text>
+        <text>Artefatos do Scrum</text>
       </navLabel>
-      <content src="Text/part0010.html"/>
+      <content src="Text/pagina_014.html#p1"/>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>Backlog do Produto</text>
+        </navLabel>
+        <content src="Text/pagina_014.html#p2"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>Backlog da Sprint</text>
+        </navLabel>
+        <content src="Text/pagina_016.html#p1"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>Incremento</text>
+        </navLabel>
+        <content src="Text/pagina_016.html#p2"/>
+      </navPoint>
     </navPoint>
-    <navPoint class="chapter" id="num_11" playOrder="11">
+    <navPoint class="chapter" id="num_14" playOrder="14">
       <navLabel>
-        <text>CAPÍTULO 9 Mude o mundo</text>
+        <text>Transparência do Artefato</text>
       </navLabel>
-      <content src="Text/part0011.html"/>
+      <content src="Text/pagina_017.html#p1"/>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>Definição de “Pronto”</text>
+        </navLabel>
+        <content src="Text/pagina_017.html#p2"/>
+      </navPoint>
     </navPoint>
-    <navPoint class="chapter" id="num_12" playOrder="12">
+    <navPoint class="chapter" id="num_16" playOrder="16">
       <navLabel>
-        <text>Apêndice</text>
+        <text>Conclusão</text>
       </navLabel>
-      <content src="Text/part0012.html"/>
+      <content src="Text/pagina_018.html#p1"/>
     </navPoint>
-    <navPoint class="chapter" id="num_13" playOrder="13">
+    <navPoint class="chapter" id="num_15" playOrder="15">
       <navLabel>
         <text>Agradecimentos</text>
       </navLabel>
-      <content src="Text/part0013.html"/>
-    </navPoint>-->
+      <content src="Text/pagina_018.html#p2"/>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>Pessoas</text>
+        </navLabel>
+        <content src="Text/pagina_018.html#p3"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>História</text>
+        </navLabel>
+        <content src="Text/pagina_018.html#p4"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>Tradução</text>
+        </navLabel>
+        <content src="Text/pagina_018.html#p5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Mudanças entre os Guias Scrum 2016 e 2017</text>
+      </navLabel>
+      <content src="Text/pagina_019.html"/>
+    </navPoint>
   </navMap>
 </ncx>

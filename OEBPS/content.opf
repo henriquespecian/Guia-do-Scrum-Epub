@@ -39,7 +39,6 @@
   <spine toc="ncx">
     <itemref idref="titlepage"/>
     <itemref idref="id1"/>
-    <itemref idref="id2"/>
     <itemref idref="id3"/>
     <itemref idref="id4"/>
     <itemref idref="id5"/>
